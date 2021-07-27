@@ -1,4 +1,5 @@
 ## Oi! Eu sou o Antônio Augusto
+woman_technologist Estudante de Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com">Trybe</a>
  <div>
   <a href="https://github.com/Toineto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toineto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
