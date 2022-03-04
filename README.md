@@ -6,23 +6,20 @@
 
 #### ⚡ Meus hobbies: jogar, filmes, séries, livros, tomar açai, treinar jiu-jitsu e programar!
 
-  <div>
+  <div align="center">
   <a href="https://github.com/Toineto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toineto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toineto&layout=demo&langs_count=7&theme=midnight-purple"/>
     </div>
-  
- ##
-  <h2> Tecnologias <h2/>
 <div style="display: inline_block"><br>
-  
+  <h2>Tecnologia<h2/>
   <img align="center" alt="toin-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="toin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="toin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="toin-redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="toin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="toin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
   
   ##
@@ -35,7 +32,7 @@
  <a href="https://whats.link/toineto" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
  
 
-</div>
+</div align="center">
   
   ##
   
