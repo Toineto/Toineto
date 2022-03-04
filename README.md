@@ -10,15 +10,10 @@
   <a href="https://github.com/Toineto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toineto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toineto&layout=demo&langs_count=7&theme=midnight-purple"/>
-  </div>
-    
-  ##
+    </div>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-</div>
-
  ##
- 
+  
 <div style="display: inline_block"><br>
   <h2> Tecnologias <h2/>
   <img align="center" alt="toin-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
@@ -40,6 +35,15 @@
  
 
 </div>
+  
+  ##
+  
+   ##
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+ ##
 
 <!---
 Toineto/Toineto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
