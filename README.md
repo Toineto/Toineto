@@ -4,7 +4,7 @@
 
 #### Sou apaixonado por qualquer tipo de tecnologia, já trabalhei como suporte, porém queria mesmo era entrar na Matrix e fazer parte dela como um desenvolvedor web full stack, Busco diariamente ser melhor que ontem e me envolver em projetos que agreguem valor à vida das pessoas, prezando sempre em estar com um sorriso no rosto, ter empatia e colaboração.
 <div>
-  #### <a href="https://github.com/Toineto">
+  <a href="https://github.com/Toineto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toineto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
