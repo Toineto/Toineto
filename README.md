@@ -1,5 +1,5 @@
 ## Oi! Eu sou o Antônio Augusto
-🌱 web development student <a href="https://www.betrybe.com">Trybe</a>
+🌱 web development student <a href="https://www.betrybe.com">Trybe</a> <br/>
 Sou apaixonado por qualquer tipo de tecnologia, já trabalhei como suporte, porém queria mesmo era entrar na Matrix e fazer parte dela como um desenvolvedor web full stack, Busco diariamente ser melhor que ontem e me envolver em projetos que agreguem valor à vida das pessoas, prezando sempre em estar com um sorriso no rosto, ter empatia e colaboração.
  <div>
   <a href="https://github.com/Toineto">
