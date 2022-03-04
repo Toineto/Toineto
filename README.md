@@ -5,10 +5,20 @@
 #### Sou apaixonado por qualquer tipo de tecnologia, já trabalhei como suporte, porém queria mesmo era entrar na Matrix e fazer parte dela como um desenvolvedor web full stack, Busco diariamente ser melhor que ontem e me envolver em projetos que agreguem valor à vida das pessoas, prezando sempre em estar com um sorriso no rosto, ter empatia e colaboração.
 
 #### ⚡ Meus hobbies: jogar, filmes, séries, livros, tomar açai, treinar jiu-jitsu e programar!
-<div>
+
+  <div>
   <a href="https://github.com/Toineto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toineto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Toineto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toineto&layout=demo&langs_count=7&theme=midnight-purple"/>
+  </div>
+    
+  ##
+  
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+ ##
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="toin-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="toin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
