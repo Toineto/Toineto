@@ -1,7 +1,5 @@
 ## Oi! Eu sou o Antônio Augusto
 
-#### 🌱 web development student <a href="https://www.betrybe.com">Trybe</a>
-
 #### Sou apaixonado por qualquer tipo de tecnologia, já trabalhei como suporte, porém sempre fui apaixonado por softwares, por todos os tipos, então um dia decidi me tornar desenvolvedor do mesmo, estou nessa caminhada aprendendo, estudando e evoluindo em Desenvolvimento Web Full Stack, Busco diariamente ser melhor que ontem e me envolver em projetos que agreguem valor à vida das pessoas, prezando sempre a ter empatia e colaboração.
 
 #### ⚡ Meus hobbies: jogar, filmes, séries, livros, tomar açai, treinar jiu-jitsu e programar!
